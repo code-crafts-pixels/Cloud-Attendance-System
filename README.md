@@ -24,6 +24,12 @@ AttendWise is a scalable, secure, and cloud-ready attendance tracking system. Us
 ### Screenshots
 
 <a href="https://github.com/code-crafts-pixels/Cloud-Attendance-System" target="_blank">
+  <img width="1340" height="999" alt="Screenshot 2026-02-01 230509"
+       src="https://github.com/user-attachments/assets/83f25c44-25e2-4508-b8e6-99165d02f7c6" />
+</a>
+
+<br><br>
+<a href="https://github.com/code-crafts-pixels/Cloud-Attendance-System" target="_blank">
   <img width="1880" height="1001" alt="Screenshot 2026-02-01 223214"
        src="https://github.com/user-attachments/assets/d7077e1f-998f-43f3-bff7-b899d6446351" />
 </a>
@@ -119,4 +125,5 @@ Export data if implemented.
 Software Developer  
 
 **GitHub:** https://github.com/code-crafts-pixels 
+
 
