@@ -20,7 +20,6 @@ AttendWise is a scalable, secure, and cloud-ready attendance tracking system. Us
 ✔ Export attendance to CSV/PDF *(optional)*  
 ✔ Responsive UI for web & mobile
 
-> *Features can be updated based on implemented functionality.*
 
 ### Screenshots
 
@@ -73,7 +72,7 @@ To run AttendWise locally:
 
 Make sure you have:
 
-- Node.js (v14+)
+- Node.js 
 - npm or yarn
 - Cloud project credentials (e.g., Firebase config)
 
@@ -120,3 +119,4 @@ Export data if implemented.
 Software Developer  
 
 **GitHub:** https://github.com/code-crafts-pixels 
+
